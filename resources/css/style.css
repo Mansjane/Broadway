@@ -14,3 +14,12 @@ header {
 header a {
   font-size: 18px;
 }
+.content h2 {
+  font-size: 32px;
+}
+.content h3 {
+  font-size: 23px;
+}
+.content p {
+  font-size: 14px;
+}
