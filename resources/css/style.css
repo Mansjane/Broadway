@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 h1 {
-  font-size: 70px
+  font-size: 70px;
 }
 .white {
   color: white;
@@ -22,4 +22,8 @@ header a {
 }
 .content p {
   font-size: 14px;
+}
+#designed {
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
 }
