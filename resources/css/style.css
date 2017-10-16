@@ -27,3 +27,10 @@ header a {
   background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
 }
+footer {
+  background-color: dimgray;
+  text-align: left;
+}
+footer span {
+  font-size: 11px;
+}
